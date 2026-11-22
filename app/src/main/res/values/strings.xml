@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CyberShift</string>
+    <string name="mission_title">SECTOR 01: ENERGON VIADUCT</string>
+    <string name="btn_deploy">DEPLOY UNIT</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_restart">RETRY SECTOR</string>
+    <string name="btn_abort">ABORT TO BASE</string>
+    <string name="btn_mute">AUDIO</string>
+    <string name="paused_title">SYSTEM PAUSED</string>
+    <string name="game_over_title">CHASSIS OFFLINE</string>
+    <string name="victory_title">SECTOR 01 SECURED</string>
+</resources>

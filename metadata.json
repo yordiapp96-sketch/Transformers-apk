@@ -1,0 +1,6 @@
+{
+  "name": "CyberShift",
+  "description": "Pixel-perfect transforming mecha action platformer set in Sector 01: Energon Viaduct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
